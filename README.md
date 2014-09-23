@@ -13,3 +13,4 @@ Some dummy text. Different from text that was here in previous version.
 Lorem ipsum rotas opera tenet apero sator.
 
 
+Test for a commit that will be squashed after pull request started.
